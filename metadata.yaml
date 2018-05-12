@@ -1,0 +1,26 @@
+_repo: Spiders_44496
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44496-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Warburton, Cecil
+    alias: Warburton, C. (Cecil)
+    birthdate: 1854
+    gutenberg_agent_id: '42786'
+    url: http://www.gutenberg.org/2009/agents/42786
+description: ''
+gutenberg_issued: '2013-12-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44496'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QL'
+- !lcsh 'Spiders'
+title: Spiders
+url: http://www.gutenberg.org/ebooks/44496
